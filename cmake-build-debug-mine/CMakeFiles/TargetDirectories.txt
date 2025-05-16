@@ -1,0 +1,4 @@
+/Users/maria/CLionProjects/tasks/cmake-build-debug-mine/CMakeFiles/codeforces.dir
+/Users/maria/CLionProjects/tasks/cmake-build-debug-mine/CMakeFiles/tasks.dir
+/Users/maria/CLionProjects/tasks/cmake-build-debug-mine/CMakeFiles/edit_cache.dir
+/Users/maria/CLionProjects/tasks/cmake-build-debug-mine/CMakeFiles/rebuild_cache.dir

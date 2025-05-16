@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/maria/CLionProjects/tasks/cmake-build-debug-mine",
+  "command": "/opt/homebrew/bin/g++-14 -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fdiagnostics-color=always -o CMakeFiles/codeforces.dir/codeforces/watermelon.cpp.o -c /Users/maria/CLionProjects/tasks/codeforces/watermelon.cpp",
+  "file": "/Users/maria/CLionProjects/tasks/codeforces/watermelon.cpp",
+  "output": "CMakeFiles/codeforces.dir/codeforces/watermelon.cpp.o"
+},
+{
+  "directory": "/Users/maria/CLionProjects/tasks/cmake-build-debug-mine",
+  "command": "/opt/homebrew/bin/g++-14 -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fdiagnostics-color=always -o CMakeFiles/tasks.dir/book-examples/weird-algorithm.cpp.o -c /Users/maria/CLionProjects/tasks/book-examples/weird-algorithm.cpp",
+  "file": "/Users/maria/CLionProjects/tasks/book-examples/weird-algorithm.cpp",
+  "output": "CMakeFiles/tasks.dir/book-examples/weird-algorithm.cpp.o"
+}
+]
