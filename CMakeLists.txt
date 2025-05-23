@@ -29,6 +29,7 @@ endif()
 
 add_executable(codeforces
         codeforces/watermelon.cpp
+        jere/geometria.cpp
 )
 
 add_executable(tasks

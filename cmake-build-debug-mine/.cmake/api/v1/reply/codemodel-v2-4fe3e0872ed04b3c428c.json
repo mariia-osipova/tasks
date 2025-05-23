@@ -41,14 +41,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "codeforces::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-codeforces-Debug-484d1cf496339c1b8fc9.json",
+					"jsonFile" : "target-codeforces-Debug-3bec689cb26a65a26e15.json",
 					"name" : "codeforces",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "tasks::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-tasks-Debug-6c9fcb1388a539f0ac22.json",
+					"jsonFile" : "target-tasks-Debug-b9298a5396d830325134.json",
 					"name" : "tasks",
 					"projectIndex" : 0
 				}

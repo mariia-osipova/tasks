@@ -7,6 +7,12 @@
 },
 {
   "directory": "/Users/maria/CLionProjects/tasks/cmake-build-debug-mine",
+  "command": "/opt/homebrew/bin/g++-14 -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fdiagnostics-color=always -o CMakeFiles/codeforces.dir/jere/geometria.cpp.o -c /Users/maria/CLionProjects/tasks/jere/geometria.cpp",
+  "file": "/Users/maria/CLionProjects/tasks/jere/geometria.cpp",
+  "output": "CMakeFiles/codeforces.dir/jere/geometria.cpp.o"
+},
+{
+  "directory": "/Users/maria/CLionProjects/tasks/cmake-build-debug-mine",
   "command": "/opt/homebrew/bin/g++-14 -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fdiagnostics-color=always -o CMakeFiles/tasks.dir/book-examples/weird-algorithm.cpp.o -c /Users/maria/CLionProjects/tasks/book-examples/weird-algorithm.cpp",
   "file": "/Users/maria/CLionProjects/tasks/book-examples/weird-algorithm.cpp",
   "output": "CMakeFiles/tasks.dir/book-examples/weird-algorithm.cpp.o"
